@@ -6,6 +6,10 @@ https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-ma
 
 https://www.typescriptlang.org/
 
+# I am using the following websites to refere - typescript react dev
+
+- https://react-typescript-cheatsheet.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
