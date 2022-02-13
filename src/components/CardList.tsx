@@ -4,7 +4,6 @@ import Card from './Card';
 
 const CardList = (props: { roborts: Array<IRobort> }) => {
 
-    throw new Error('nothing');
 
     return (
         <div>
