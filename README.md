@@ -2,6 +2,8 @@
 
 https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/learn/lecture/21032956#overview
 
+ref original repo : https://github.com/aneagoie/robofriends
+
 # I am using type-script here instead of javascript
 
 https://www.typescriptlang.org/
