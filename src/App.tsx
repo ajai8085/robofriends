@@ -28,7 +28,7 @@ class App extends React.Component {
   render(): React.ReactNode {
     return (
       <div className="App">
-        <Hello age={10} greetings={'Hello'} />
+
       </div>
     );
   }
